@@ -1,2 +1,2 @@
 #!/bin/bash
-cat test.log | sed '/^\+/Id' > result.log
+cat test.log | sed '/^\+/d' > result.log
