@@ -1,0 +1,2 @@
+#!/bin/bash
+cat revertline.sed | ./revertline.sed
